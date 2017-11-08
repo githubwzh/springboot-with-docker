@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Class-Path: hibernate-validator-5.3.4.Final.jar slf4j-api-1.7.24.jar s
+ nakeyaml-1.17.jar spring-boot-starter-tomcat-1.5.2.RELEASE.jar tomcat
+ -embed-el-8.5.11.jar classmate-1.3.3.jar tomcat-embed-websocket-8.5.1
+ 1.jar validation-api-1.1.0.Final.jar spring-boot-starter-logging-1.5.
+ 2.RELEASE.jar jackson-annotations-2.8.0.jar jboss-logging-3.3.0.Final
+ .jar tomcat-embed-core-8.5.11.jar spring-beans-4.3.7.RELEASE.jar log4
+ j-over-slf4j-1.7.24.jar spring-expression-4.3.7.RELEASE.jar spring-co
+ ntext-4.3.7.RELEASE.jar jackson-core-2.8.7.jar jcl-over-slf4j-1.7.24.
+ jar spring-web-4.3.7.RELEASE.jar spring-boot-autoconfigure-1.5.2.RELE
+ ASE.jar logback-core-1.1.11.jar logback-classic-1.1.11.jar spring-boo
+ t-starter-1.5.2.RELEASE.jar spring-boot-starter-web-1.5.2.RELEASE.jar
+  spring-core-4.3.7.RELEASE.jar spring-aop-4.3.7.RELEASE.jar jul-to-sl
+ f4j-1.7.24.jar jackson-databind-2.8.7.jar spring-boot-1.5.2.RELEASE.j
+ ar spring-webmvc-4.3.7.RELEASE.jar
+Main-Class: com.forezp.SpringbootWithDockerApplication
+
